@@ -1,0 +1,16 @@
+div{
+    padding: 20px;
+    margin: 10px;
+    border:2px solid black;
+    font-size: medium;
+    color: green;
+
+}
+.cd_list{
+    color: blue;
+    font-style: italic;
+    
+}
+.img_list{
+    background-image: url(index2.jpg);
+}
